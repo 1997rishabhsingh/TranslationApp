@@ -5,5 +5,5 @@ This project makes use of the following components
 >ArrayList
 >ListView and ArrayAdapters >Custom Classes and Custom Adapters
 >Activity Lifecycle
->Audio playback
+>Audio playback.
 >AudioFocus
