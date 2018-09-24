@@ -1,6 +1,6 @@
-## TranslationApp
+# TranslationApp
 
-#This project makes use of the following components
+## This project makes use of the following components
 
 Intents and activities
 
